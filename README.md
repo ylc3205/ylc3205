@@ -10,7 +10,7 @@ I am a dedicated Software Engineering student at the Center for International Ed
 * 🧠 **Current Focus:** Exploring the **MERN Stack, advanced Java, and Boundary-Control-Entity (BCE) architecture**. I strongly believe in the "theory goes hand-in-hand with practice" mindset.
 * 🌱 **Learning:** Diving deeper into **System Design, API optimization, and Fullstack Development**.
 * 👯 **Collaboration:** Open to collaborate on **Backend, Software Engineering projects, and innovative tech ideas**.
-* 💬 **Ask me about:** **Java, Node.js, SQL Server, structuring databases, or even some Valorant strats!**
+* 💬 **Ask me about:** **Java, Node.js, SQL Server, and structuring complex databases.**
 
 ### 🛠 Tech Stack
 
