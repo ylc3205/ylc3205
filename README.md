@@ -1,15 +1,16 @@
 # Hi, I'm Hien Vinh 👋
 
-A passionate Software Engineering student interested in building well-architected software systems and managing complex databases. My work focuses heavily on backend development, scalable web applications, and relational database design.
+I am a dedicated Software Engineering student at the Center for International Education (CIE) - Posts and Telecommunications Institute of Technology (PTIT). With a strong foundation in core programming principles and a passion for problem-solving, I specialize in building well-architected software systems and managing complex databases. My work focuses heavily on backend development, scalable web applications, and relational database design. I always strive to bridge the gap between theoretical knowledge and practical application to create efficient, real-world solutions.
 
 ### 🚀 About Me
 
-* 🎓 **Software Engineering** Student
-* 💻 Interested in **Backend Development, Database Management, and Web Systems**
-* 🧠 Exploring the **MERN Stack, advanced Java, and Boundary-Control-Entity (BCE) architecture**
-* 🌱 Learning more about **System Design, API optimization, and Fullstack Development**
-* 👯 Open to collaborate on **Backend and Software Engineering projects**
-* 💬 Ask me about **Java, Node.js, SQL Server, and structuring databases**
+* 🎓 **Software Engineering Student** at CIE - PTIT, studying in a dynamic and globally-oriented technology environment.
+* 📚 **Academic Foundation:** Building solid technical expertise through core coursework in *Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems, and System Analysis & Design*.
+* 💻 **Interests:** Highly passionate about **Backend Development, Database Architecture, and Web Systems**.
+* 🧠 **Current Focus:** Exploring the **MERN Stack, advanced Java, and Boundary-Control-Entity (BCE) architecture**. I strongly believe in the "theory goes hand-in-hand with practice" mindset.
+* 🌱 **Learning:** Diving deeper into **System Design, API optimization, and Fullstack Development**.
+* 👯 **Collaboration:** Open to collaborate on **Backend, Software Engineering projects, and innovative tech ideas**.
+* 💬 **Ask me about:** **Java, Node.js, SQL Server, structuring databases, or even some Valorant strats!**
 
 ### 🛠 Tech Stack
 
