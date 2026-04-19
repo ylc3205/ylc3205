@@ -7,7 +7,7 @@ I am a dedicated Software Engineering student at the Center for International Ed
 * 🎓 **Software Engineering Student** at CIE - PTIT, studying in a dynamic and globally-oriented technology environment.
 * 📚 **Academic Foundation:** Building solid technical expertise through core coursework in *Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems, and System Analysis & Design*.
 * 💻 **Interests:** Highly passionate about **Backend Development, Database Architecture, and Web Systems**.
-* 🧠 **Current Focus:** Exploring the **MERN Stack, advanced Java, and Boundary-Control-Entity (BCE) architecture**. I strongly believe in the "theory goes hand-in-hand with practice" mindset.
+* 🧠 **Current Focus:** Exploring the **MERN Stack, advanced Java, JavaScript and Boundary-Control-Entity (BCE) architecture**. I strongly believe in the "theory goes hand-in-hand with practice" mindset.
 * 🌱 **Learning:** Diving deeper into **System Design, API optimization, and Fullstack Development**.
 * 👯 **Collaboration:** Open to collaborate on **Backend, Software Engineering projects, and innovative tech ideas**.
 * 💬 **Ask me about:** **Java, Node.js, SQL Server, and structuring complex databases.**
